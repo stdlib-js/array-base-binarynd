@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import binarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-binarynd@esm/index.mjs';
+import binarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-binarynd@v0.1.0-esm/index.mjs';
 ```
 
 #### binarynd( arrays, shape, fcn )
@@ -101,7 +101,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@esm/index.mjs';
 import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@esm/index.mjs';
 import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add@esm/index.mjs';
-import binarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-binarynd@esm/index.mjs';
+import binarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-binarynd@v0.1.0-esm/index.mjs';
 
 var shape = [ 3, 3 ];
 
